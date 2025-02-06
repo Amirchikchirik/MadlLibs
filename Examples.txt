@@ -1,0 +1,26 @@
+Example 1 (Silly):
+
+adjective1: Giggling
+place: Pickle Patch
+animal: Squirrel
+emotion: Flabbergasted
+object: Rubber Chicken
+character: Rainbow Unicorn
+terrain: Marshmallow Mountain
+weather_condition: Sprinkle of Glitter
+place2: Giant Teacup
+emotion2: Ecstatic
+adverb: Hysterically
+Example 2 (More Traditional):
+
+adjective1: Mystical
+place: Enchanted Forest
+animal: Brave Knight
+emotion: Lonely
+object: Lost Sword
+character: Wise Old Wizard
+terrain: Treacherous Caves
+weather_condition: Raging Storm
+place2: Hidden Cave
+emotion2: Grateful
+adverb: Happily
